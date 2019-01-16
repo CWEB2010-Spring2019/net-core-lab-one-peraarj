@@ -9,7 +9,7 @@ namespace lab_one
         static void Main(string[] args)
         {
 			// Answer key for quiz app is "B", "B", "c", "A", "D", "A", "A", "C", "D", "A"
-			string[] correctAnswers = new string[10] {"B", "B", "c", "A", "D", "A", "A", "C", "D", "A"};
+			string[] correctAnswers = new string[10] {"B", "B", "C", "A", "D", "A", "A", "C", "D", "A"};
 			string[] userSelection = new string[10];
 			string[,] quizQuestionOptions = {{"A)", "B)", "C)", "D)"},
 											 {"A)", "B)", "C)", "D)"},
